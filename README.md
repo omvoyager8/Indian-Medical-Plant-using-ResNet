@@ -1,1 +1,0 @@
-# Indian-Medical-Plant-using-ResNet
